@@ -1,4 +1,4 @@
-This dns_lookup() function in .zshrc that prompts the user to input a domain and performs various DNS queries for that domain. It uses the dig command to fetch the following DNS records:
+This is a dns_lookup() function in .zshrc that prompts the user to input a domain and performs various DNS queries for that domain. It uses the dig command to fetch the following DNS records:
 
 A Record: The IPv4 address of the domain.
 AAAA Record: The IPv6 address of the domain.
