@@ -1,4 +1,4 @@
-# This is a `dns_lookup()` function in `.zshrc`
+# `dns_lookup()` function in `.zshrc`
 
 This function prompts the user to input a domain and performs various DNS queries for that domain. It uses the `dig` command to fetch the following DNS records:
 
